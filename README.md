@@ -45,9 +45,7 @@ npm start
 
 After running this command, a new window will open at [`localhost:3000`](http://localhost:3000) with your new React app that will look similar to below.
 
-<center>
-<img src="images/create-react-app.png" style="max-width: 70%; border-radius: 10px; box-shadow: -1px 3px 12px rgba(0,0,0,0.1)" />
-</center>
+<img src="images/create-react-app.png" />
 
 # JSX
 
