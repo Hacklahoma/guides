@@ -32,16 +32,16 @@ After these tools are installed, we can use Facebook's pre-configured environmen
 
 To setup `create-react-app`, run the following code in your terminal where you want your project directory to live.
 
-<pre>
+```bash
 npx create-react-app myapp
-</pre>
+```
 
 This might take a little bit to install if it is your first time installing. Once it's finished, move into the newly created directory and start the project
 
-<pre>
+```bash
 cd myapp
 npm start
-</pre>
+```
 
 After running this command, a new window will open at [`localhost:3000`](http://localhost:3000) with your new React app that will look similar to below.
 
