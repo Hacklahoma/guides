@@ -1,4 +1,4 @@
-# First Timers Guide
+# Bots Guide
 
 This guide was created by our friends at [Hack Rice](https://hack.rice.edu/).
 
