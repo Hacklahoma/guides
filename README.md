@@ -1,5 +1,5 @@
-# DataScienceTrack
-HackRice 7.5 - Data Science Track
+# Data Science Guide
+This guide was created by our friends at [HackRice](https://hack.rice.edu/).
 
 ## Introduction
 
@@ -43,6 +43,7 @@ This tutorial requires Python and JuPyter Notebook. To run our Python code we ne
   [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to get the data and code
   
   
+
 If you do not have python currently, we suggest installing [Anaconda](https://www.anaconda.com/download/) (use the python3 version) since it includes almost everything we need.
 
 In addition, Windows users will need To install Cygwin (more on this below).
@@ -137,13 +138,13 @@ This should go ahead and grab any python packages we need that you don't already
 ## Preparing the data
 
 You should currently still be in the `DataScienceTrack` folder. In here go ahead and extract `data.zip` into a folder called `data`.
- 
+
  ![](imgs/data-structure-example.png)
- 
+
  If you're curious, you can take a look at these data. They are just a bunch of images of handwritten digits in different folders named by what digit is in the folder.
- 
+
  ![](imgs/data-format-example.png)
- 
+
 
 ## Running the notebook
 
