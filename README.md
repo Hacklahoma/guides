@@ -1,5 +1,5 @@
 # Data Science Guide
-This guide was created by our friends at [HackRice](https://hack.rice.edu/).
+This guide was created by our friends at [Hack Rice](https://hack.rice.edu/).
 
 ## Introduction
 
@@ -9,12 +9,11 @@ Well these are all applications of Data Science. Over the last few years Data Sc
 
 These tutorials will give you a brief introduction into some basic applications of machine learning and data science along with example prompts to compete in this track. To compete though, any data science project will do.
 
-Below we have instructions for getting started with our [beginner data science tutorial](https://github.com/abhmul/DataScienceTrack/blob/master/BeginnerTutorial.ipynb) about a famous computer vision problem. In addition, we have several other tutorials:
+Below we have instructions for getting started with Hack Rice's [beginner data science tutorial](https://github.com/Hacklahoma/guides/blob/data-science/BeginnerTutorial.ipynb) about a famous computer vision problem. In addition, they have several other tutorials:
 
-* [Natural Language Processing Tutorial](https://github.com/abhmul/DataScienceTrack/blob/master/NLP/IMDB.ipynb)
+* [Natural Language Processing Tutorial](https://github.com/Hacklahoma/guides/blob/data-science/NLP/IMDB.ipynb)
 * [Deep Reinforcement Learning Tutorial w/ Tensorflow](https://medium.com/tensorflow/deep-reinforcement-learning-playing-cartpole-through-asynchronous-advantage-actor-critic-a3c-7eab2eea5296)
 * [Neural Style Transfer Tutorial w/ Tensorflow](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
-* [Image Segmentation](https://github.com/tensorflow/models/blob/master/samples/outreach/blogs/segmentation_blogpost/image_segmentation.ipynb)
 
 ### Prompt
 
@@ -28,7 +27,7 @@ In addition, the [Google Dataset Search](https://toolbox.google.com/datasetsearc
 
 ### A Quick Note on the Beginner Tutorial
 
-The steps below outline how to setup your computer to view and run the code in this repository using JuPyter Notebook. If you just want to read through the tutorial, you can [view the beginner notebook online through GitHub](https://github.com/abhmul/DataScienceTrack/blob/master/BeginnerTutorial.ipynb)
+The steps below outline how to setup your computer to view and run the code in this repository using JuPyter Notebook. If you just want to read through the tutorial, you can [view the beginner notebook online through GitHub](https://github.com/Hacklahoma/guides/blob/data-science/BeginnerTutorial.ipynb)
 
 ## Tools needed
 
