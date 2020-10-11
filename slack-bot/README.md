@@ -2,7 +2,6 @@
 
 **Borrowed from a Post updated by Matt Makai on December 13, 2017. Originally posted on June 04, 2016.**
 
-
 ## Introduction
 
 Bots are a useful way to interact with chat services such as Slack. If you have never built a bot before, this post provides an easy starter tutorial for combining the Slack API with Python to create your first bot.
@@ -378,6 +377,6 @@ Check out these posts to learn what you could do:
 
 # FAQ
   
-If you have any general questions about this track or about setting up your development environment, take a look at our [FAQ](https://github.com/jpa99/HR8-First-Timers-Track/tree/master/FAQ.md). If you're still stuck, reach out to a mentor or one of the HackRice organizers and we'll be happy to point you in the right direction.
+If you have any general questions about this track or about setting up your development environment, take a look at our [FAQ](https://github.com/Hacklahoma/guides/blob/bots/FAQ.md). If you're still stuck, reach out to a mentor or one of the HackRice organizers and we'll be happy to point you in the right direction.
   
 

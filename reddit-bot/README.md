@@ -135,7 +135,7 @@ Or, if you're up for the challenge, instead of relying on PRAW, try directly mak
 
 # FAQ
   
-If you have any general questions about this track or about setting up your development environment, take a look at our [FAQ](https://github.com/jpa99/HR8-First-Timers-Track/tree/master/FAQ.md). If you're still stuck, reach out to a mentor or one of the HackRice organizers and we'll be happy to point you in the right direction.
+If you have any general questions about this track or about setting up your development environment, take a look at our [FAQ](https://github.com/Hacklahoma/guides/blob/bots/FAQ.md). If you're still stuck, reach out to a mentor or one of the HackRice organizers and we'll be happy to point you in the right direction.
   
 
 
