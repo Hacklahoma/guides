@@ -183,7 +183,7 @@ const Input = () => {
   return (
     <div className="input">
       <h2>Input</h2>
-      <input placeholder="Type your message here" />
+      <textarea placeholder="Type your message here" />
     </div>
   );
 }
@@ -306,16 +306,16 @@ export default App;
 Next, let's open `Input.js` to make use of our state.
 
 We need to do two things: 
-1. Tell the input what our current value is
-2. Change the value when the input is changed
+1. Tell the textarea what our current value is
+2. Change the value when the textarea is changed
 
-We can tell the input what our value is by simply giving it a property built into html called `value` and setting it to the prop we passed in
+We can tell the textarea what our value is by simply giving it a property built into html called `value` and setting it to the prop we passed in
 
 ```jsx
-<input value={props.value} placeholder="Type your message here" />
+<textarea value={props.value} placeholder="Type your message here" />
 ```
 
-We'll now detect when the input changes by using the built in property `onChange` which will be given a handler that we can create within the component to update the state. We'll call this `handleChange`
+We'll now detect when the textarea changes by using the built in property `onChange` which will be given a handler that we can create within the component to update the state. We'll call this `handleChange`
 
 Your `Input.js` file should look like the following
 
@@ -333,7 +333,7 @@ const Input = (props) => {
   return (
     <div className="input">
       <h2>Input</h2>
-      <input 
+      <textarea 
         value={props.value} 
         onChange={handleChange}
         placeholder="Type your message here" 
